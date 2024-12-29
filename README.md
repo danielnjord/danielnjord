@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danielnjord
 - 👀 I’m interested in a internship
-- 🌱 I’m currently learning C# .NET
+- 🌱 I’m currently learning Webflow
 - 📫 How to reach me danielnjord@hotmail.com
 
 <!---
